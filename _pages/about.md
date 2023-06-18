@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year undergraduate student at the University of Manchester studying Physics.  
+I'm a third-year undergraduate student at the University of Manchester studying Physics.  
+I am primarily interested in AI4Science and the inductive biases to build better models.
+Currently, I am interested in symmetry and Geometric Deep Learning.
 
-My interests lie in Machine Learning and its applications within Physics and as a tool to solve physically motivated problems.
