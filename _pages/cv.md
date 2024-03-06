@@ -11,49 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2020-2024 MPhys: Physics, University of Manchester. Masters thesis supervised by Prof. Anna Scaife.
+  * Expected first-class with 84% CGPA
+  * Awarded the Richard Davis Prize for highest performing student in second-year laboratory
+  * Selected to represent the University within the Global Graduates Programme
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Summer Fellow, Summer@EPFL
+  * LTS4, EPFL
+  * Worked on applying Graph Neural Networks for digital histopathology for immunotherapy response prediction.
+  * Supervisor: Dr Dorina Thanou
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2022: UNIQ+ DeepMind Intern
+  * OxCSML, University of Oxford
+  * Working to advance the start of the art in protein/ligand binding affinity predictions using Equivariant Convolutional Neural Networks.
+  * Supervisor: Professor Yee Whye Teh
 
-Publications
+* Summer 2021: Student Experience Intern
+  * Electromagnetic Sensing Group, University of Manchester
+  * Developed a Python package to find the magnetic field around 2D objects quickly. 
+  * Supervisor: Dr Micheal O'Toole
+
+Projects
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* ClimateHack 2022
+  * Used Machine Learning to advance the state of the art in satellite image nowcasting for cloud movement.
+  * Represented the University in the finals, finishing 6th internationally. 
+  * https://github.com/BuburuzanAlexandru/climatehack
