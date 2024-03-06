@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+Last updated: 06/03/2024
+For a pdf version of my CV: [Download my CV](aavashsubedi.github.io/files/SUBEDI_CV.pdf)
 
 Education
 ======
